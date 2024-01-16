@@ -7,3 +7,12 @@ body{
     border: red solid;
 }
 
+.link-redes a{
+    text-decoration: none !important;
+    color: white !important;
+}
+
+.link-redes a:hover{
+    text-decoration: none !important;
+    color: rgb(208, 228, 255) !important;
+}
